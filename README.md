@@ -1,4 +1,4 @@
-# Springer Capital - Customer Data Pipeline
+# Customer Data Pipeline
 
 A robust data pipeline project designed to ingest customer data from a mock API into a PostgreSQL database using `dlt` (Data Load Tool), with a FastAPI service for data access.
 
@@ -42,7 +42,7 @@ This project consists of three main components:
 
 ### running the Application
 
-1.  **Clone the repository** (if applicable).
+1.  **Clone the repository**.
 2.  **Start the services** using Docker Compose:
     ```bash
     docker-compose up -d

@@ -1,0 +1,222 @@
+[
+    {
+        "customer_id": "1",
+        "first_name": "Budi",
+        "last_name": "Santoso",
+        "email": "budi1@mail.com",
+        "phone": "081230001",
+        "address": "Jakarta",
+        "date_of_birth": "1995-01-01",
+        "account_balance": 100000,
+        "created_at": "2024-01-01"
+    },
+    {
+        "customer_id": "2",
+        "first_name": "Siti",
+        "last_name": "Aminah",
+        "email": "siti2@mail.com",
+        "phone": "081230002",
+        "address": "Bandung",
+        "date_of_birth": "1996-02-02",
+        "account_balance": 150000,
+        "created_at": "2024-01-02"
+    },
+    {
+        "customer_id": "3",
+        "first_name": "Andi",
+        "last_name": "Pratama",
+        "email": "andi3@mail.com",
+        "phone": "081230003",
+        "address": "Surabaya",
+        "date_of_birth": "1994-03-03",
+        "account_balance": 200000,
+        "created_at": "2024-01-03"
+    },
+    {
+        "customer_id": "4",
+        "first_name": "Rina",
+        "last_name": "Wijaya",
+        "email": "rina4@mail.com",
+        "phone": "081230004",
+        "address": "Yogyakarta",
+        "date_of_birth": "1997-04-04",
+        "account_balance": 120000,
+        "created_at": "2024-01-04"
+    },
+    {
+        "customer_id": "5",
+        "first_name": "Dewi",
+        "last_name": "Lestari",
+        "email": "dewi5@mail.com",
+        "phone": "081230005",
+        "address": "Semarang",
+        "date_of_birth": "1993-05-05",
+        "account_balance": 180000,
+        "created_at": "2024-01-05"
+    },
+    {
+        "customer_id": "6",
+        "first_name": "Agus",
+        "last_name": "Saputra",
+        "email": "agus6@mail.com",
+        "phone": "081230006",
+        "address": "Medan",
+        "date_of_birth": "1992-06-06",
+        "account_balance": 220000,
+        "created_at": "2024-01-06"
+    },
+    {
+        "customer_id": "7",
+        "first_name": "Lina",
+        "last_name": "Sari",
+        "email": "lina7@mail.com",
+        "phone": "081230007",
+        "address": "Makassar",
+        "date_of_birth": "1998-07-07",
+        "account_balance": 130000,
+        "created_at": "2024-01-07"
+    },
+    {
+        "customer_id": "8",
+        "first_name": "Rudi",
+        "last_name": "Hartono",
+        "email": "rudi8@mail.com",
+        "phone": "081230008",
+        "address": "Palembang",
+        "date_of_birth": "1991-08-08",
+        "account_balance": 250000,
+        "created_at": "2024-01-08"
+    },
+    {
+        "customer_id": "9",
+        "first_name": "Maya",
+        "last_name": "Putri",
+        "email": "maya9@mail.com",
+        "phone": "081230009",
+        "address": "Denpasar",
+        "date_of_birth": "1999-09-09",
+        "account_balance": 110000,
+        "created_at": "2024-01-09"
+    },
+    {
+        "customer_id": "10",
+        "first_name": "Fajar",
+        "last_name": "Nugroho",
+        "email": "fajar10@mail.com",
+        "phone": "081230010",
+        "address": "Malang",
+        "date_of_birth": "1990-10-10",
+        "account_balance": 300000,
+        "created_at": "2024-01-10"
+    },
+    {
+        "customer_id": "11",
+        "first_name": "Nina",
+        "last_name": "Rahma",
+        "email": "nina11@mail.com",
+        "phone": "081230011",
+        "address": "Bogor",
+        "date_of_birth": "1996-11-11",
+        "account_balance": 140000,
+        "created_at": "2024-01-11"
+    },
+    {
+        "customer_id": "12",
+        "first_name": "Hendra",
+        "last_name": "Kurniawan",
+        "email": "hendra12@mail.com",
+        "phone": "081230012",
+        "address": "Depok",
+        "date_of_birth": "1995-12-12",
+        "account_balance": 210000,
+        "created_at": "2024-01-12"
+    },
+    {
+        "customer_id": "13",
+        "first_name": "Ayu",
+        "last_name": "Wulandari",
+        "email": "ayu13@mail.com",
+        "phone": "081230013",
+        "address": "Bekasi",
+        "date_of_birth": "1997-01-13",
+        "account_balance": 125000,
+        "created_at": "2024-01-13"
+    },
+    {
+        "customer_id": "14",
+        "first_name": "Yoga",
+        "last_name": "Prasetyo",
+        "email": "yoga14@mail.com",
+        "phone": "081230014",
+        "address": "Tangerang",
+        "date_of_birth": "1993-02-14",
+        "account_balance": 175000,
+        "created_at": "2024-01-14"
+    },
+    {
+        "customer_id": "15",
+        "first_name": "Intan",
+        "last_name": "Permata",
+        "email": "intan15@mail.com",
+        "phone": "081230015",
+        "address": "Padang",
+        "date_of_birth": "1998-03-15",
+        "account_balance": 135000,
+        "created_at": "2024-01-15"
+    },
+    {
+        "customer_id": "16",
+        "first_name": "Arif",
+        "last_name": "Setiawan",
+        "email": "arif16@mail.com",
+        "phone": "081230016",
+        "address": "Pontianak",
+        "date_of_birth": "1992-04-16",
+        "account_balance": 260000,
+        "created_at": "2024-01-16"
+    },
+    {
+        "customer_id": "17",
+        "first_name": "Putra",
+        "last_name": "Mahendra",
+        "email": "putra17@mail.com",
+        "phone": "081230017",
+        "address": "Balikpapan",
+        "date_of_birth": "1991-05-17",
+        "account_balance": 280000,
+        "created_at": "2024-01-17"
+    },
+    {
+        "customer_id": "18",
+        "first_name": "Citra",
+        "last_name": "Dewi",
+        "email": "citra18@mail.com",
+        "phone": "081230018",
+        "address": "Banjarmasin",
+        "date_of_birth": "1999-06-18",
+        "account_balance": 115000,
+        "created_at": "2024-01-18"
+    },
+    {
+        "customer_id": "19",
+        "first_name": "Rizky",
+        "last_name": "Firmansyah",
+        "email": "rizky19@mail.com",
+        "phone": "081230019",
+        "address": "Pekanbaru",
+        "date_of_birth": "1994-07-19",
+        "account_balance": 195000,
+        "created_at": "2024-01-19"
+    },
+    {
+        "customer_id": "20",
+        "first_name": "Dina",
+        "last_name": "Safitri",
+        "email": "dina20@mail.com",
+        "phone": "081230020",
+        "address": "Lampung",
+        "date_of_birth": "1996-08-20",
+        "account_balance": 145000,
+        "created_at": "2024-01-20"
+    }
+]
